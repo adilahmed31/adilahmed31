@@ -23,7 +23,7 @@ Some selected projects:
 My own:
 1. *leveldb-kv-store*: Implemented a scalable, distributed cloud-native version of levelDB in C++ on AWS. Used Elastic File System (EFS), Zookeeper and Docker containers to deploy the system and gRPC for communication. See slide.pdf and report.pdf for a 10,000 feet non-technical glance.
 
-2. *APK-Analysis*: The code I used for my research on stalkerware analysis in this paper: https://petsymposium.org/popets/2022/popets-2022-0102.php.
+2. *APK-Analysis*: The web crawling and ML-classification pipeline i built for my research on stalkerware analysis in this paper: https://petsymposium.org/popets/2022/popets-2022-0102.php.
 
 3. *Safe Exit for Sensitive Websites*: Developed a simple website for Madison Tech Clinic - an initiative to provide technical assistance to victims of Intimate Partner Surveillance. Developed a Safe Exit mechanism that allows the site to be closed quickly, disabling the back button and not leaving a trace in history. Website link: https://techclinic.cs.wisc.edu (Try out the safe exit mechanism, and let me know in case of any comments!)
 
