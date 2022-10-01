@@ -29,7 +29,7 @@ My own:
 
 4. *IdIoT* - Identify IoT devices. Pipeline to parse raw traffic (pcap files) from IoT devices using PyShark. extract key characteristics and train an ml-classifier (using scikitlearn) to recognize the traffic.
 
-5. *SCRUBS*: Strongly-consistent Redundancy-based Utilitarian Block Store. This is an implementation of a distributed highly-available file system in C++ using a variety of innovative techniques - piggybacking, handshake protocol etc. to achieve strong consistency with high performance. See slide.pdf and report.pdf!
+5. *SCRUBS*: Strongly-consistent Redundancy-based Utilitarian Block Store. This is an implementation of a distributed highly-available file system in C++ using a variety of innovative (debatable) techniques - piggybacking, handshake protocol etc. to achieve strong consistency with high performance. See slide.pdf and report.pdf!
 
 6. *739-p2c*: A file-system built on FUSE that allows a user to pick multiple modes with different performance and consistency guarantees.
 
