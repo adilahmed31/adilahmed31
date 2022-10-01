@@ -27,7 +27,7 @@ My own:
 
 3. *Safe Exit for Sensitive Websites*: Developed a simple website for Madison Tech Clinic - an initiative to provide technical assistance to victims of Intimate Partner Surveillance. Developed a Safe Exit mechanism that allows the site to be closed quickly, disabling the back button and not leaving a trace in history. Website link: https://techclinic.cs.wisc.edu (Try out the safe exit mechanism, and let me know in case of any comments!)
 
-4. *IdIoT* - Identify IoT devies. Pipeline to parse raw traffic (pcap files) from IoT devices using PyShark. extract key characteristics and train an ml-classifier (using scikitlearn) to recognize the traffic.
+4. *IdIoT* - Identify IoT devices. Pipeline to parse raw traffic (pcap files) from IoT devices using PyShark. extract key characteristics and train an ml-classifier (using scikitlearn) to recognize the traffic.
 
 5. *SCRUBS*: Strongly-consistent Redundancy-based Utilitarian Block Store. This is an implementation of a distributed highly-available file system in C++ using a variety of innovative techniques - piggybacking, handshake protocol etc. to achieve strong consistency with high performance. See slide.pdf and report.pdf!
 
