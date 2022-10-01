@@ -31,7 +31,7 @@ My own:
 
 5. *SCRUBS*: Strongly-consistent Redundancy-based Utilitarian Block Store. This is an implementation of a distributed highly-available file system in C++ using a variety of innovative techniques - piggybacking, handshake protocol etc. to achieve strong consistency with high performance. See slide.pdf and report.pdf!
 
-6. *739-p2c*: A file-system based on FUSE we built for a school project. Uses multiple modes with different performance guarantees.
+6. *739-p2c*: A file-system built on FUSE that allows a user to pick multiple modes with different performance and consistency guarantees.
 
 7. *cs537-Discussion-su22*: My detailed discussion notes and code samples I used as a Teaching Assistant for Operating Systems. Note that the work builds on contributions by past TAs and isn't entirely my own. 
 
