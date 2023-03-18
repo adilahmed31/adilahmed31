@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Security Engineer and current grad student at UW-Madison working on issues relating to security and privacy online. I'm currently interested in exploring computer systems-  including operating systems, networking and distributed systems.
 
 An incomplete guide to following along my messy github page and finding the repo you're interested in is below. Please reach out if you would like to contribute or make use of them in any way.
 
